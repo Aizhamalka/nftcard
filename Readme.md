@@ -9,4 +9,3 @@
 https://aizhamalka.github.io/nftcard/card.html
 
 
-Я не знаю почему мой линк не работает(((((
