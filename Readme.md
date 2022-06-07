@@ -6,7 +6,7 @@
 
 # Deployed link
 
-https://aizhamalka.github.io/nft/card.html
+https://aizhamalka.github.io/nftcard/card.html
 
 
 Я не знаю почему мой линк не работает(((((
